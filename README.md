@@ -1,4 +1,4 @@
-# codewar
+# isogram
 
 ### Code For Isogram
 ```
